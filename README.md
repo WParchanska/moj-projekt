@@ -5,3 +5,5 @@ to jest przykładowy plik README do testowania Gita i GitHuba
 #co tu się dzieje?
 -uczyłam się korzystać z Gita
 - to jest pierwszy commit!
+
+dodatkowa linia tesktu
