@@ -7,3 +7,5 @@ to jest przykładowy plik README do testowania Gita i GitHuba
 - to jest pierwszy commit!
 
 dodatkowa linia tesktu
+
+kolejna zmiana 
